@@ -1,8 +1,8 @@
 # NYC_Business_Analysis
-How did Covid affect businesses?
-COVID's effect on NYC businesses
-We all know that businesses in NYC have been affected by COVID. The question is to what extent? NYC is supposed to be a thriving city. New businesses represent who are taking risks and being a productive members in society by providing services.
-The data I used is updated daily and is found here:
+How did Covid affect businesses?<br>
+COVID's effect on NYC businesses<br>
+We all know that businesses in NYC have been affected by COVID. The question is to what extent? NYC is supposed to be a thriving city. New businesses represent who are taking risks and being a productive members in society by providing services.<br>
+The data I used is updated daily and is found here:<br>
 https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh
 <br>
 Here is what I found:<br>
